@@ -1,6 +1,12 @@
-# React-Static - TypeScript Template
+# Resume / CV static site
 
-To use this template, run `react-static create` and use the `typescript` template.
+Utilizing react-static, typescript, tailwindcss...
+
+Uses a slightly modified/enhanced version of JsonResume with custom parsing on-the-fly.
+
+
+---
+
 
 ## Path Aliases for Absolute Imports
 
